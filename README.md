@@ -2,6 +2,7 @@
 
 ## 概要
 このアプリケーションは、React と Spring Boot を使用して作成したシンプルな Todo アプリです。タスクを追加、編集、削除できます。
+![Todo App Screenshot](images/screenshot.png)
 
 ## インストール手順
 
