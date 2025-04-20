@@ -1,0 +1,12 @@
+2025-04-20 19:57:18.274492+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: SQLステートメントに文法エラーがあります "[*]SLECT * FROM TODO"; 期待されるステートメント "SAVEPOINT, SCRIPT, SHUTDOWN"
+Syntax error in SQL statement "[*]SLECT * FROM TODO"; expected "SAVEPOINT, SCRIPT, SHUTDOWN"; SQL statement:
+SLECT * FROM TODO [42001-224]
+2025-04-20 19:57:38.308681+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: SQLステートメントに文法エラーがあります "[*]SLECT * FROM TODO"; 期待されるステートメント "SAVEPOINT, SCRIPT, SHUTDOWN"
+Syntax error in SQL statement "[*]SLECT * FROM TODO"; expected "SAVEPOINT, SCRIPT, SHUTDOWN"; SQL statement:
+SLECT * FROM TODO [42001-224]
+2025-04-20 19:57:42.441633+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: SQLステートメントに文法エラーがあります "[*]SLECT * FROM TODO:"; 期待されるステートメント "SAVEPOINT, SCRIPT, SHUTDOWN"
+Syntax error in SQL statement "[*]SLECT * FROM TODO:"; expected "SAVEPOINT, SCRIPT, SHUTDOWN"; SQL statement:
+SLECT * FROM TODO: [42001-224]
