@@ -14,12 +14,12 @@
   cd frontend
   npm install
 
-3.バックエンドを起動します：
+3. バックエンドを起動します：
   ```bash
   cd backend
   mvn spring-boot:run
 
-4.フロントエンドを起動します：
+4. フロントエンドを起動します：
   ```bash
   cd frontend
   npm start
